@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋 
+
+-  🧑🏽 Graduate Computer Science Student
+-  🧳 Travels a lot
+
+
 
 <!--
 **BaruaSourav/baruasourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently exploring the area of Data Science, Geographical Data and Ocean Data. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
