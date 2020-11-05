@@ -1,8 +1,7 @@
 ### Hello there 👋 
 
 -  🧑🏽 Graduate Computer Science Student
--  🧳 Travels a lot
-- 🌱 Currently exploring the area of Data Science, Geographical Data and Ocean Data.
+-  🌱 Currently exploring the area of Data Science, Geographical Data and Ocean Data.
 
 
 <!--
