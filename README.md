@@ -1,7 +1,7 @@
 ### Hello there 👋 
 
--  🧑🏽 Graduate Computer Science Student
--  🌱 Currently exploring the area of Data Science, Geographical Data and Ocean Data.
+-  🧑🏽 Software Engineering Journeyman
+-  🌱 Learning around Azure and AWS and their services.
 
 
 <!--
