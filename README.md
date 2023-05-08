@@ -1,7 +1,7 @@
 ### Hello there 👋 
 
 -  🧑🏽 Software Engineering Journeyman
--  🌱 Learning around Azure and AWS and their services.
+-  🌱 Learning around Azure and AWS services.
 
 
 <!--
@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently exploring the area of Data Science, Geographical Data and Ocean Data. 
+🌱 Looking at how AWS Rekognition services can implement user-end features.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
