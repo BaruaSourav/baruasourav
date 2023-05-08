@@ -3,6 +3,8 @@
 -  🧑🏽 Software Engineering Journeyman
 -  🌱 Learning around Azure and AWS services.
 
+## What am I working on now?
+- 🌱 Looking at how AWS Rekognition services can implement user-end features.
 
 <!--
 **BaruaSourav/baruasourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
