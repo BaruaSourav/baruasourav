@@ -4,7 +4,6 @@
 -  🌱 Learning around Azure and AWS services.
 
 ### What am I working on now?
-- ⚡ Exploring .NET 8 and lovin it
 - ⚡ Learning Cloud Native DevOps approach
 - 🌱 Looking at how AWS Rekognition services can implement user-end features.
 
