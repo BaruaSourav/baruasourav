@@ -4,6 +4,7 @@
 -  🌱 Learning around Azure and AWS services.
 
 ### What am I working on now?
+- 📦 Reading around web resource bundling. 
 - ⚡ Learning Cloud Native DevOps approach
 - 🌱 Looking at how AWS Rekognition services can implement user-end features.
 
