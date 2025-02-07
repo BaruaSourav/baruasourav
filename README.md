@@ -5,7 +5,7 @@
 
 ### What am I working on now?
 - ✨ Diving into GenAI tools and techniques.
-- ♾️ Nibbling Linux Networking bytes for Container networking. 
+- ♾️ Nibbling Linux Networking bites (|| bytes?)  for Container networking. 
 - 📦 ~~Reading around web resource bundling.~~
 - ⚡ ~~Learning Cloud Native DevOps approach~~
 - 🌱 ~~Looking at how AWS Rekognition services can implement user-end features.~~
