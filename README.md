@@ -1,12 +1,14 @@
 ### Hello there 👋 
 
--  🧑🏽 Software Engineering Journeyman
+-  🧑🏽 Software Engineering Journeyman 
 -  🌱 Learning around Azure and AWS services.
 
 ### What am I working on now?
-- 📦 Reading around web resource bundling. 
-- ⚡ Learning Cloud Native DevOps approach
-- 🌱 Looking at how AWS Rekognition services can implement user-end features.
+- ✨ Diving into GenAI tools and techniques.
+- ♾️ Nibbling Linux Networking bytes for Container networking. 
+- 📦 ~~Reading around web resource bundling.~~
+- ⚡ ~~Learning Cloud Native DevOps approach~~
+- 🌱 ~~Looking at how AWS Rekognition services can implement user-end features.~~
 
 <!--
 **BaruaSourav/baruasourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
